@@ -1,0 +1,313 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/pawel/Documents/docFX/docfx_project_wersja_startowa",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.ConfigOgolneExtender.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.ConfigOgolneExtender.html",
+          "hash": "SRE+tWw8eipvDXyjcKYPqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.EwidencjaImport.PlatnoscOnline_Ewidencja.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.EwidencjaImport.PlatnoscOnline_Ewidencja.html",
+          "hash": "aVAeSPx/2wp4FQu/e2s/Lg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.EwidencjaImport.PlatnoscOnline_EwidencjaErrors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.EwidencjaImport.PlatnoscOnline_EwidencjaErrors.html",
+          "hash": "nmzf2z1zuC42Hr8HSz3p0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.EwidencjaImport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.EwidencjaImport.html",
+          "hash": "9yvZIZhQfpzQ8zxWl0ZP9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.EwidencjaImportWorker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.EwidencjaImportWorker.html",
+          "hash": "7wB0HVl3CRa6k1+7Edkcbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.EwidencjaImportWorkerParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.EwidencjaImportWorkerParams.html",
+          "hash": "DW0ppNV+52zLKsSNwI2o6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.HandelImport.Sprzedaz_Handel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.HandelImport.Sprzedaz_Handel.html",
+          "hash": "wbiulJMItMESAY/mqjDKtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.HandelImport.Sprzedaz_HandelError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.HandelImport.Sprzedaz_HandelError.html",
+          "hash": "QSLVj0KG16UiVE0FGWloKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.HandelImport.Sprzedaz_HandelMap.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.HandelImport.Sprzedaz_HandelMap.html",
+          "hash": "zZcL9/I4h2BlOsPyLy7zjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.HandelImport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.HandelImport.html",
+          "hash": "OwJdxH3inaj8CopRh16mVQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.HandelImportWorker.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.HandelImportWorker.html",
+          "hash": "RDu6Bq5LMkKDAVPisMiNQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.HandelImportWorkerParams.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.HandelImportWorkerParams.html",
+          "hash": "BJRTzB5XxTUOuuxGvgvQcQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.UzywaneCechy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.UzywaneCechy.html",
+          "hash": "8sbpcgwOahX05rE3fcxR7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/SkubaczHandelImport.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/SkubaczHandelImport.html",
+          "hash": "zQUNh4+WZFXL17vWjkvA9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "/RtA3a085XYENCTIW7om6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "Dzf8IXzJIPXS4uLQxB2YUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "dQUVgC6c+AnllvaZn7JHyw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "vGdUnvPixCJEJsF9eyEjtg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ManagedReferenceDocumentProcessor disable incremental build because last build doesn't contain version .",
+          "incrementalPhase": "build",
+          "total_file_count": 14,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
